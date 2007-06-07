@@ -1,0 +1,3 @@
+1. Untar the extension into the extensions/ directory of your eZ install
+2. Import the mp3_audio package from the doc/ directory
+3. Activate the extensions and clear the caches
